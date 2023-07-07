@@ -2,7 +2,7 @@
   
 
 # 💫 About Me
-🔭 I’m currently working on new mobile application which provides lessons organizer for Sports Clubs<br>🌱 I’m currently learning Flutter, Rust & Micro-services Architecture<br>💬 Ask me about React, React Native and mobile app development <br>🎤 As a singer would like to share my song <br> [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4VJT271OmckzRdYdiDZxWz?si=ba541536671e482f)
+🔭 I’m currently working on new mobile application which provides lessons organizer for Sports Clubs<br>🌱 I’m currently learning Flutter, Rust & Micro-services Architecture<br>💬 Ask me about React, React Native and mobile app development <br><br> 🎤 As a singer would like to share my song <br> [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4VJT271OmckzRdYdiDZxWz?si=ba541536671e482f)
 
 
 ## 🌐 Socials:
