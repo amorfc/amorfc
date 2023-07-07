@@ -11,8 +11,6 @@
 ### 🔝 Top Contributed Repo
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amorfc&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amorfc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fatih-ermetin-361567190/) 
