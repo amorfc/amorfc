@@ -2,7 +2,7 @@
   
 
 # 💫 About Me
-🔭 Focused on frontend development nowadays and open source contributor <br>🌱 Currently learning Rust & Micro-services Architecture<br>💬 Ask me about JS, TS, React, React Native and mobile app development <br><br> 🎤 As a singer would like to share my song <br> [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/track/4VJT271OmckzRdYdiDZxWz?si=ba541536671e482f)
+🔭 Focused on Frontend/Backend development nowadays and open source contributor <br>🌱 Currently learning Rust & Micro-services Architecture<br>💬 Ask me about JS, TS, React, React Native and mobile app development <br><br> 🎤 As a singer would like to share my song <br> [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/track/4VJT271OmckzRdYdiDZxWz?si=ba541536671e482f)
 
 
 # 💻 Tech Stack:
